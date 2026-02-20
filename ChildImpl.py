@@ -13,3 +13,5 @@ class ChildImpl(Calculator):
 obj = ChildImpl()
 print(obj.getCompleteData())
 print(obj.getCompleteData())
+print(obj.getCompleteData())
+print(obj.getCompleteData())
