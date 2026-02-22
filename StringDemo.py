@@ -20,3 +20,7 @@ str3 = " great "
 print(str3.strip())
 print(str3.lstrip())
 print(str3.rstrip())
+
+print(str3.strip())
+print(str3.lstrip())
+print(str3.rstrip())
